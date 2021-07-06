@@ -1,0 +1,16 @@
+[
+  { 
+    "name": "Momentum Digital Risk Division",
+    "streetAddres": "67 Koranna ave, Doringkloof, Momentum building",
+    "tags": ["Momentum"],
+    "longitude": 28.216410379840553,
+    "latitude": -25.859031862619332
+  },
+  { 
+    "name": "Momentum Metropolitan building",
+    "streetAddres": "5 Mispel Rd, Bo Oakdale, Cape Town, 7530",
+    "tags": ["Momentum"],
+    "longitude": 18.635172784190807,
+    "latitude": -33.884135479639866
+  }
+]
